@@ -3,13 +3,10 @@ h1{
   text-align: center;
   background-color: #00008B; 
   text-color: #808080;
+  max-height: 50px;
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  max-height: 50px;
-  overflow: hidden;
   background-color: #6495ED;
 }
 
@@ -22,7 +19,6 @@ li a {
   color: #0000FF;
   text-align: center;
   padding: 15px 15px;
-  text-decoration: none;
 }
 
 li a:hover {
