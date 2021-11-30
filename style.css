@@ -1,9 +1,12 @@
 /*Sleepy Theme*/
-h1{
+body {
+  background-colors: #DCDCDC;
+}
+
+h1 {
   text-align: center;
   background-color: #00008B; 
   color: #808080;
-  outline-offset: 0;
 }
 
 ul {
@@ -23,13 +26,13 @@ li a {
   color: #0000FF;
   text-align: center;
   padding: 15px 15px;
-  text-decorations: none;
+  text-decoration: none;
 }
 
 li a:hover {
   background-color: #00008B;
 }
 
-p{
+p {
   text-align: center;
 }
