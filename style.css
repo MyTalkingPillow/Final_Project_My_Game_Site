@@ -2,12 +2,13 @@
 h1{
   text-align: center;
   background-color: #00008B; 
+  text-color: #808080;
 }
 
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  max-height: 50px;
   overflow: hidden;
   background-color: #6495ED;
 }
