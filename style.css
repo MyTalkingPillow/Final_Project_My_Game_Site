@@ -3,6 +3,7 @@ h1{
   text-align: center;
   background-color: #00008B; 
   color: #808080;
+  padding: 30px;
 }
 
 ul {
@@ -22,6 +23,7 @@ li a {
   color: #0000FF;
   text-align: center;
   padding: 15px 15px;
+  text-decorations: none;
 }
 
 li a:hover {
