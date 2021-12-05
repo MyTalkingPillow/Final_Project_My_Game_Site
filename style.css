@@ -40,7 +40,6 @@ p {
 
 img { 
   float: left;
-  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 33%;
