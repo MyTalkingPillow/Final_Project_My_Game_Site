@@ -39,6 +39,6 @@ p {
 }
 
 img { 
+  image-align: center;
   float: left;
-  margin-left: 100px;
-  margin-right: 100px;
+}
