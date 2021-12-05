@@ -37,3 +37,6 @@ p {
   margin-left: 300px;
   border: solid;
 }
+
+img { 
+  float: left;
