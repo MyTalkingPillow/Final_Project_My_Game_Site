@@ -31,9 +31,6 @@ li a:hover {
 }
 
 p {
-  positon: absolute;
-  border: solid;
-  min-height: 296px;
   text-align: center;
   font-size: 200%;
   margin: auto;
