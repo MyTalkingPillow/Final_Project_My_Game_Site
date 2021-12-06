@@ -36,6 +36,7 @@ p {
   text-align: center;
   font-size: 200%;
   overflow: auto;
+  height: 500px;
 }
 
 img { 
