@@ -35,6 +35,7 @@ p {
   border: 33.33% hidden;
   text-align: center;
   font-size: 200%;
+  overflow: auto;
 }
 
 img { 
