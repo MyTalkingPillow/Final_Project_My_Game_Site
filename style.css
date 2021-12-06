@@ -42,7 +42,12 @@ p {
   overflow: auto;
 }
 
-img { 
+.img1 { 
+  width: 25%;
+  padding: 10px;
+}
+
+.img2 { 
   float: left;
   width: 33.33%;
   padding: 10px;
