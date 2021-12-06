@@ -33,7 +33,7 @@ li a:hover {
 }
 
 p {
-  display :block;
+  display: block;
   position: static;
   border: solid;
   text-align: center;
