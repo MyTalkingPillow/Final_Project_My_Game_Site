@@ -43,10 +43,5 @@ img {
   padding: 10px;
 }
 
-div {
-    display: block;
-    border: solid;
-}
-
 * {
   box-sizing: border-box;
