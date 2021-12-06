@@ -21,7 +21,6 @@ li {
 
 li a {
   display: block;
-  height: 296px;
   color: #0000FF;
   text-align: center;
   padding: 15px 15px;
@@ -33,7 +32,9 @@ li a:hover {
 }
 
 p {
+  positon: absolute;
   border: solid;
+  height: 296px;
   text-align: center;
   font-size: 200%;
   margin: auto;
