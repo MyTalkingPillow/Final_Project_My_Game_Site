@@ -32,11 +32,12 @@ li a:hover {
 }
 
 p {
-  border: 33.33% hidden;
   text-align: center;
   font-size: 200%;
+  height: 300px;
+  width: 300px;
+  margin: auto;
   overflow: auto;
-  height: 500px;
 }
 
 img { 
