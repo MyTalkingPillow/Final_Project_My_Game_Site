@@ -33,8 +33,6 @@ li a:hover {
 }
 
 p {
-  display: block;
-  position: static;
   border: solid;
   text-align: center;
   font-size: 200%;
