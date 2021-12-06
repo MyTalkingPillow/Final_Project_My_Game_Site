@@ -36,4 +36,5 @@ p {
 }
 
 img { 
+  overflow: auto;
 }
