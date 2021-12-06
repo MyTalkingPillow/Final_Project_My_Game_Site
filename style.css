@@ -34,8 +34,6 @@ li a:hover {
 p {
   text-align: center;
   font-size: 200%;
-  height: 150px;
-  width: 150px;
   margin: auto;
   overflow: auto;
 }
